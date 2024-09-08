@@ -94,3 +94,4 @@ let gallery = new SimpleLightbox(".gallery li a", {
     disableRightClick: true,
 });
 
+
